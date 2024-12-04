@@ -1,5 +1,5 @@
-# Casas-
-Previsão de Preços de Casas 
+# Previsão de Preços de Casas 
+
 Este projeto utiliza algoritmos de Regressão Linear e Árvores de Decisão para prever preços de casas com base em dados históricos. O código carrega os dados, divide-os em conjuntos de treinamento e teste, treina dois modelos de aprendizado de máquina e avalia suas performances usando métricas como Mean Squared Error (MSE) e Coeficiente de Determinação (R²).
 
 Requisitos do Projeto
